@@ -1,0 +1,3 @@
+To use pip3 in python, pip3 must be installed in your system: 
+
+Run 'sudo apt install python3-pip' to install it. Then run 'pip3 install <module_name>' to install the desired module.
