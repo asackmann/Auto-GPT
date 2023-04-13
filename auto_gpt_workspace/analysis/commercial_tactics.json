@@ -1,0 +1,62 @@
+[
+{
+    'strategy': 'Empower Partners to Build AI Skills and Solutions',
+    'name': 'AI Skills Certification Program',
+    'description': 'Offer an AI skills certification program for our partners in Latin America, which includes training modules, assessments, and recognition badges.',
+    'owner': 'Satya Nadella'
+},
+{
+    'strategy': 'Empower Partners to Build AI Skills and Solutions',
+    'name': 'AI Solution Center',
+    'description': 'Create an AI Solution Center, which provides our partners in Latin America with access to our experts, labs, tools, and best practices for developing AI-based solutions and services.',
+    'owner': 'Satya Nadella'
+},
+{
+    'strategy': 'Develop Customized Solutions and Services for Industry Verticals',
+    'name': 'AI Health Monitor',
+    'description': 'Develop an AI Health Monitor solution for the healthcare industry in Latin America, which uses data analytics and machine learning to monitor and predict patients' vital signs and health conditions, and recommends interventions and treatments.',
+    'owner': 'Charlie Hughes'
+},
+{
+    'strategy': 'Develop Customized Solutions and Services for Industry Verticals',
+    'name': 'AI Agro Advisor',
+    'description': 'Develop an AI Agro Advisor solution for the agriculture industry in Latin America, which uses data analytics and AI to optimize crop yield, reduce waste, and increase efficiency.',
+    'owner': 'Charlie Hughes'
+},
+{
+    'strategy': 'Expand Reach and Access to the Microsoft Ecosystem',
+    'name': 'Regional Partner Recruitment Campaign',
+    'description': 'Launch a regional partner recruitment campaign in Latin America, which targets potential partners in local markets and industries, and provides them with information, incentives, and support to join our partner program and adopt our solutions and services.',
+    'owner': 'John Thompson'
+},
+{
+    'strategy': 'Expand Reach and Access to the Microsoft Ecosystem',
+    'name': 'Marquee Events Portfolio',
+    'description': 'Develop a marquee events portfolio for Latin America, which showcases our solutions, services, and partner ecosystem, and provides opportunities for networking, learning, and showcasing thought leadership.',
+    'owner': 'John Thompson'
+},
+{
+    'strategy': 'Invest in Social Responsibility and Sustainability',
+    'name': 'AI Education Initiative',
+    'description': 'Launch an AI education initiative in Latin America, which provides free and accessible AI training and resources to students, teachers, and professionals, and promotes diversity, inclusion, and ethical AI principles.',
+    'owner': 'Brad Smith'
+},
+{
+    'strategy': 'Invest in Social Responsibility and Sustainability',
+    'name': 'AI for Good Challenge',
+    'description': 'Organize an AI for Good Challenge in Latin America, which invites developers, engineers, and entrepreneurs to create innovative and impactful AI solutions for social and environmental challenges.',
+    'owner': 'Brad Smith'
+},
+{
+    'strategy': 'Drive Innovation and Thought Leadership in the Data AI Market',
+    'name': 'Data AI Insights Blog',
+    'description': 'Launch a Data AI Insights Blog for Latin America, which features data, trends, and best practices on the data and AI landscape in the region, and invites guest authors, customers, and partners to share their perspectives and experiences.',
+    'owner': 'Kevin Scott'
+},
+{
+    'strategy': 'Drive Innovation and Thought Leadership in the Data AI Market',
+    'name': 'Data AI Hackathon',
+    'description': 'Organize a Data AI Hackathon in Latin America, which brings together developers, data scientists, and designers to collaborate and prototype AI solutions for real-world challenges, and showcases the latest technologies and trends in the data and AI market.',
+    'owner': 'Kevin Scott'
+}
+]
