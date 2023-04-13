@@ -1,0 +1,38 @@
+[
+{
+    'name': 'Microsoft Partner Network',
+    'description': 'The Microsoft Partner Network is a global community of partners who sell and deliver Microsoft products and services. The program provides access to technical resources, training, support, and marketing resources, as well as opportunities to network and collaborate with other partners and customers.',
+    'type': 'Core partner program',
+    'tier': 'Gold, Silver, and Bronze',
+    'requirements': 'Competencies, references, customer satisfaction, annual fee',
+    'benefits': 'Access to software, training, support, marketing resources, Go-To-Market Services, incentives, and benefits',
+    'cost': 'Varies by geography and tier'
+},
+{
+    'name': 'Cloud Solution Provider (CSP) Program',
+    'description': 'The Cloud Solution Provider (CSP) program is a Microsoft partner program that enables partners to sell and provision Microsoft cloud services to their customers. The program provides access to technical resources, tools, training, and support, as well as opportunities to bundle and customize cloud services and solutions.',
+    'type': 'Cloud partner program',
+    'tier': 'Indirect reseller, Direct bill partner, and Direct CSP',
+    'requirements': 'Partner Network membership, minimum purchase requirements',
+    'benefits': 'Access to software, technical resources, tools, training, support, and incentives',
+    'cost': 'No upfront costs, only pay for what you sell'
+},
+{
+    'name': 'Enterprise Mobility + Security (EMS) Partner Program',
+    'description': 'The Enterprise Mobility + Security (EMS) Partner Program is a Microsoft partner program that enables partners to offer and deliver secure mobility and identity solutions to their customers. The program provides access to technical resources, tools, training, and support, as well as opportunities to bundle and customize EMS solutions.',
+    'type': 'Security partner program',
+    'tier': 'Identity & Access Management, Threat Protection, Information Protection, and Service Providers',
+    'requirements': 'Partner Network membership, minimum purchase requirements',
+    'benefits': 'Access to software, technical resources, tools, training, support, and incentives',
+    'cost': 'No upfront costs, only pay for what you sell'
+},
+{
+    'name': 'ISV Program',
+    'description': 'The ISV Program is a Microsoft partner program that enables independent software vendors to build, test, and promote their applications on the Microsoft platform. The program provides access to technical resources, tools, training, and support, as well as opportunities to showcase and market their applications to a wide range of customers.',
+    'type': 'Software partner program',
+    'tier': 'Silver and Gold',
+    'requirements': 'Microsoft Platform Ready, membership fees',
+    'benefits': 'Access to technical resources, tools, training, support, marketing resources, and incentives',
+    'cost': 'Membership fees'
+}
+]

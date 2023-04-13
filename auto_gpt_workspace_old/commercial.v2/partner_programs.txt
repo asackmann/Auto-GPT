@@ -1,0 +1,13 @@
+The following are the relevant Microsoft partnership programs available in Latin America:
+
+- Microsoft Partner Network (MPN):
+This program provides resources, support, and benefits to help partners grow their business, build expertise in Microsoft technologies, and differentiate themselves in the market. MPN offers different membership levels, such as silver, gold, and action pack, depending on the partner's investment and capabilities.
+
+- Cloud Solution Provider (CSP) Program:
+This program enables partners to sell Microsoft cloud services, including Office 365, Dynamics 365, and Azure, to their customers, and to build their own services and IP on top of these platforms. Partners in the CSP program can own the customer relationship and can offer value-added services, such as migration, integration, and management.
+
+- Enterprise Mobility + Security (EMS) Partner Program:
+This program is focused on security and management solutions for mobile devices and platforms, such as Intune and Azure Active Directory. Partners in this program can access sales and technical training, support, and resources to help them build and sell solutions that meet the security and compliance needs of their customers.
+
+- ISV Program:
+This program is aimed at independent software vendors (ISVs) who develop and sell solutions based on Microsoft technologies, such as Dynamics 365, Power Platform, and Azure. Partners in this program can access technical and business support, certification and testing tools, and go-to-market resources, to help them build and scale their solutions and reach new customers.
