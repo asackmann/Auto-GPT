@@ -6,7 +6,8 @@ cfg = Config()
 openai.api_key = cfg.openai_api_key
 
 # Overly simple abstraction until we create something better
-def create_chat_completion(messages, model=None, temperature=None, max_tokens=None)->str:
+def create_chat_completion(messages, model=None, temperature=None, max_tokens=None, timeout=1200)->str:
+    #openai.api_requestor.ApiRequestor.timeout = timeout
     # Make the request to the OpenAI API and handle potential errors
     try:
         response = openai.ChatCompletion.create(
